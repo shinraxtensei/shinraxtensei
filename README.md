@@ -22,15 +22,6 @@
     <img src="https://img.shields.io/badge/JavaScript-43aa8b?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Java-43aa8b?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PHP-43aa8b?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/azure-43aa8b?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a> 
-  <a>
     <img src="https://img.shields.io/badge/HTML5-43aa8b?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   <a>
@@ -40,26 +31,10 @@
     <img src="https://img.shields.io/badge/Sass-43aa8b?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/numpy-43aa8b?style=for-the-badge&logo=numpy&logoColor=white"/>
-  </a> 
-  <a>
-    <img src="https://img.shields.io/badge/pandas-43aa8b?style=for-the-badge&logo=pandas&logoColor=white"/>
-  </a> 
-  <a>
-    <img src="https://img.shields.io/badge/PostgreSQL-43aa8b?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a> 
-  <a>
     <img src="https://img.shields.io/badge/MySQL-43aa8b?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a> 
-   <a>
-    <img src="https://img.shields.io/badge/Oracle-43aa8b?style=for-the-badge&logo=oracle&logoColor=white"/>
-  </a> 
-  <a>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-43aa8b?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a> 
-  <a>
-    <img src="https://img.shields.io/badge/figma-43aa8b?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
+
+
 </p>
                        
 
