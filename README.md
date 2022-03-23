@@ -1,7 +1,6 @@
                           hi there 👋, my name is anass 😃, i'm fasinated with the blockchaon technologies
                           currently a student at 1337 in khouribga morocco 👨🏻‍💻,
                        
-                         </p>
 </p>
 
 <h1 align="center">🛠 Technologies and tools</h1>
