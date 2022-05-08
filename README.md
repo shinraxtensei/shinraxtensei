@@ -1,46 +1,60 @@
-                          hi there 👋, my name is anass 😃, i'm fasinated with the blockchaon technologies
-                          currently a student at 1337 in khouribga morocco 👨🏻‍💻,
-                       
+Hi 👋 My name is hello , my name is anass i have 22 years old , i'm a software developer and a blockchain enthusiast
+====================================================================================================================
+
+blockchain developer
+--------------------
+
+currently a student at 1337
+
+* 🌍  I'm based in morocco , ifrane
+* ✉️  You can contact me at [anasshouarii@gmaill.com](mailto:anasshouarii@gmaill.com)
+* 🧠  I'm learning about blockchain and front-end techs
+* 🤝  I'm open to collaborating on blockchain projects
+* ⚡  i like pets
+
+<a href="https://www.twitter.com/shinraXtensei" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/shinraXtensei?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
+/></a><a href="https://www.github.com/shinraxtensei" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shinraxtensei?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
+<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
 
-<h1 align="center">🛠 Technologies and tools</h1>
-<p align="center">
-   <a>
-    <img src="https://img.shields.io/badge/Python-43aa8b?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-43aa8b?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/React-43aa8b?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Django-43aa8b?style=for-the-badge&logo=django&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/JavaScript-43aa8b?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/HTML5-43aa8b?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/CSS3-43aa8b?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Sass-43aa8b?style=for-the-badge&logo=sass&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/MySQL-43aa8b?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a> 
 
+### Socials
 
-</p>
+<p align="left"> <a href="https://www.github.com/shinraxtensei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shinraXtensei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11273466/chinra-tensei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shinraXtensei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![Ahouari's 42 stats](https://badge.mediaplus.ma/darkblue/Ahouari)](https://github.com/oakoudad/badge42)
-<!-- #
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ahouari)](https://github.com/mohouyizme/1337-readme)
- -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinraxtensei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinraxtensei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Badges
 
-![snake gif](https://github.com/shinraxtensei/shinraxtensei/blob/output/github-contribution-grid-snake.gif)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shinraxtensei"><img src="https://github-readme-stats.vercel.app/api?username=shinraxtensei&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="shinraxtensei's GitHub stats" /></a>
+
+<a href="https://github.com/shinraxtensei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinraxtensei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 
+ 
+ 
