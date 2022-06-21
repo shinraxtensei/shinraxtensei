@@ -1,4 +1,4 @@
-Hi 👋 My name is hello , my name is anass i have 22 years old , i'm a software developer and a blockchain enthusiast
+Hi 👋 My name is anass , my name is anass i have 22 years old , i'm a software developer and a blockchain enthusiast
 ====================================================================================================================
 
 blockchain developer
