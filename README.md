@@ -1,7 +1,7 @@
 Hi 👋 My name is anass , my name is anass i have 22 years old , i'm a software developer and a blockchain enthusiast
 ====================================================================================================================
 
-blockchain developer
+Software Developer
 --------------------
 
 currently a student at 1337
