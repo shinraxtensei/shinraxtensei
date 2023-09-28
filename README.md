@@ -1,4 +1,4 @@
-Hi 👋 My name is anass , my name is anass i have 22 years old , i'm a software developer and a blockchain enthusiast
+Hi 👋 My name is anass , my name is anass i have 22 years old , i'm a software developer
 ====================================================================================================================
 
 Software Developer
@@ -8,8 +8,7 @@ currently a student at 1337
 
 * 🌍  I'm based in morocco , ifrane
 * ✉️  You can contact me at [anasshouarii@gmaill.com](mailto:anasshouarii@gmaill.com)
-* 🧠  I'm learning about blockchain and front-end techs
-* 🤝  I'm open to collaborating on blockchain projects
+* 🧠  I'm learning about web techs
 * ⚡  i like pets
 
 <a href="https://www.twitter.com/shinraXtensei" target="_blank" rel="noreferrer"><img
