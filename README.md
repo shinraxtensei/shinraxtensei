@@ -1,15 +1,11 @@
-Hi 👋 My name is anass , my name is anass i have 22 years old , i'm a software developer
+Hi 👋 My name is Anass, my name is anass i have 24 years old , i'm a software developer
 ====================================================================================================================
 
 Software Developer
 --------------------
 
-currently a student at 1337
-
-* 🌍  I'm based in morocco , ifrane
+* 🌍  I'm based in morocco , Ifrane/Casablanca
 * ✉️  You can contact me at [anasshouarii@gmaill.com](mailto:anasshouarii@gmaill.com)
-* 🧠  I'm learning about web techs
-* ⚡  i like pets
 
 <a href="https://www.twitter.com/shinraXtensei" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shinraXtensei?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
