@@ -1,4 +1,3 @@
-Hi 👋 My name is Anass, my name is anass i have 24 years old , i'm a software developer
 ====================================================================================================================
 
 Software Developer
