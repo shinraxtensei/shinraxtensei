@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="koi/koi.gif" width="256" alt="my koi" />
-
-<sub>this is my koi. it eats commits.<br/>if it looks thin, i was busy. if it looks fat, i was also busy.</sub>
+<img src="koi/koi.gif" width="256" alt="koi" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,redis,flutter,go,py&theme=dark&perline=7" alt="stuff i break things with" />
-
-<br/><br/>
-
-<sub>nothing to see here. just a fish, minding its business.</sub>
+<img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,redis,flutter,go,py&theme=dark&perline=7" alt="stack" />
 
 <br/><br/>
 
